@@ -1,5 +1,7 @@
 # dog-show
 
+![dogshow](dogshow.gif)
+
 **The website works best in Chrome.
 
 Use the following credentials to log in:
