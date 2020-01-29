@@ -2,6 +2,47 @@
 
 ![dogshow](dogshow.gif)
 
+
+# Overview
+
+A conformation show, also referred to as a breed show, is a kind of dog show in which a judge familiar with a specific dog breed evaluates individual purebred dogs for how well the dogs conform to the extabilished breed type for their breed, as described in a breed's individual breed standard. (From Wikipedia)
+
+# Purpose
+
+I created an online registration page which will allow a person to register their dog or dogs, and display information about the show.
+
+# Dog information
+
+Class: Dog vs Specialty Dog
+
+Breed: Each dog will belong to a specific breed
+
+Groups: Breeds are collected into groups
+
+# Fuctionalities:
+
+# - Add dog information
+
+# - Edit and Delete: 
+    Be able to edit and delete dogs from the dog show
+
+# - Email:
+    Add an email to the dog registration page.  When someone registers their dog, send an email to the email address entered that confirms that they added their dog successfully in the body of the email, and provide all of the details they entered in the body of the email also.
+
+# - Dog Handlers:
+    Sometimes dog owners will hire handlers to show their dogs for them.  Create Tomcat security for your website.  Your users will be dog handlers.  When a dog handler logs in they should be able to add and view dogs in a personal list for themselves (The dogs they will show).   The entire web application is not under security, only the pages relevant to the dog handler.
+
+# - Add Shows:
+    Dog shows will usually occur in groups over a weekend.  
+    Choose 3 days over a Friday-Sunday in March of 2019 to host the dog show.  When a dog is registered, they should be able to choose one, two, or three shows to attend.  When showing the dogs, include what days the dogs will be attending.  Note:  When a dog is registered, they keep the same number during all 3 shows.  It would not be making different numbers for each day.
+
+Display Individual Shows:
+    It be able to select which of your 3 days to display.      Format the output so that it has the date of the show at the top of the page, and the page is nicely formatted to print.
+
+# - Handlers: 
+    If you are logged in as a handler, be able to select one of the 3 days and show the dogs that are registered for that day to show.
+
+
 **The website works best in Chrome.
 
 Use the following credentials to log in:
