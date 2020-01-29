@@ -18,24 +18,24 @@ Class: Dog vs Specialty Dog
 Breed: Each dog will belong to a specific breed
 
 Groups: Breeds are collected into groups  
-&nbsp; &nbsp; Group 1, Sporting Dogs
-&nbsp; &nbsp; Group 2, Hounds
-&nbsp; &nbsp; Group 3, Working Dogs
-&nbsp; &nbsp; Group 4, Terriers
-&nbsp; &nbsp; Group 5, Toys
-&nbsp; &nbsp; Group 6, Non-Sporting
-&nbsp; &nbsp; Group 7, Herding
+&nbsp; &nbsp; Group 1, Sporting Dogs <br />
+&nbsp; &nbsp; Group 2, Hounds <br />
+&nbsp; &nbsp; Group 3, Working Dogs <br />
+&nbsp; &nbsp; Group 4, Terriers <br />
+&nbsp; &nbsp; Group 5, Toys <br />
+&nbsp; &nbsp; Group 6, Non-Sporting  <br />
+&nbsp; &nbsp; Group 7, Herding <br />
 
 # Fuctionalities:
 
 1. Add dog information:  
-&nbsp; &nbsp; * Entry Number (Auto generated and unique)
-&nbsp; &nbsp; * Name
-&nbsp; &nbsp; * Owner name
-&nbsp; &nbsp; * Breed
-&nbsp; &nbsp; * Group (Must be one of the 7 groups listed)
-&nbsp; &nbsp; * Gender (Male/Female)
-&nbsp; &nbsp; * Class or Specialty
+&nbsp; &nbsp; * Entry Number (Auto generated and unique) <br />
+&nbsp; &nbsp; * Name <br />
+&nbsp; &nbsp; * Owner name <br />
+&nbsp; &nbsp; * Breed <br />
+&nbsp; &nbsp; * Group (Must be one of the 7 groups listed) <br />
+&nbsp; &nbsp; * Gender (Male/Female) <br />
+&nbsp; &nbsp; * Class or Specialty <br />
 
 2.  Edit and Delete:  
     Be able to edit and delete dogs from the dog show
