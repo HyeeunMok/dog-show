@@ -5,7 +5,7 @@
 
 # Overview
 
-A conformation show, also referred to as a breed show, is a kind of dog show in which a judge familiar with a specific dog breed evaluates individual purebred dogs for how well the dogs conform to the extabilished breed type for their breed, as described in a breed's individual breed standard. (From Wikipedia)
+A conformation show, also referred to as a breed show, is a kind of dog show in which a judge familiar with a specific dog breed evaluates individual purebred dogs for how well the dogs conform to the established breed type for their breed, as described in a breed's individual breed standard. (From Wikipedia)
 
 # Purpose
 
@@ -26,7 +26,7 @@ I created an online registration page which will allow a person to register thei
 &nbsp; &nbsp; Group 6, Non-Sporting  <br />
 &nbsp; &nbsp; Group 7, Herding <br />
 
-# Fuctionalities:
+# Functionalities:
 
 **1. Add dog information:**  
 &nbsp; &nbsp; * Entry Number (Auto generated and unique) <br />
@@ -51,7 +51,7 @@ I created an online registration page which will allow a person to register thei
     Choose 3 days over a Friday-Sunday in March of 2019 to host the dog show.  When a dog is registered, they should be able to choose one, two, or three shows to attend.  When showing the dogs, include what days the dogs will be attending.  Note:  When a dog is registered, they keep the same number during all 3 shows.  It would not be making different numbers for each day.
 
 **6. Display Individual Shows:**  
-    It be able to select which of your 3 days to display.  Format the output so that it has the date of the show at the top of the page, and the page is nicely formatted to print.
+    It is able to select which of your 3 days to display.  Format the output so that it has the date of the show at the top of the page, and the page is nicely formatted to print.
 
 **7. Handlers:**  
     If you are logged in as a handler, be able to select one of the 3 days and show the dogs that are registered for that day to show.
@@ -61,7 +61,7 @@ I created an online registration page which will allow a person to register thei
 ## How to run:  
 Use the following credentials to log in:  
 
-Handler name: Kyle
+Handler Name: Kyle
 Password: notReal
 
 To make dummy dogs:
