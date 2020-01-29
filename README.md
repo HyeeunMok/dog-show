@@ -28,7 +28,7 @@ Groups: Breeds are collected into groups
 
 # Fuctionalities:
 
-1. Add dog information:  
+**1. Add dog information:**  
 &nbsp; &nbsp; * Entry Number (Auto generated and unique) <br />
 &nbsp; &nbsp; * Name <br />
 &nbsp; &nbsp; * Owner name <br />
