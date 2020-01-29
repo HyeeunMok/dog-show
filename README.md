@@ -44,7 +44,7 @@ Groups: Breeds are collected into groups
 
 
 **The website works best in Chrome.
-## How to learn:  
+## How to run:  
 Use the following credentials to log in:  
 
 Handler name: Kyle
