@@ -1,4 +1,4 @@
-# Confirmation show
+# Conformation show
 
 ![dogshow](dogshow.gif)
 
